@@ -200,7 +200,7 @@ Navarro, Mireya. "[Polluters, Beware: These Eco-Police Officers Are for Real](ht
 {{< tdopen >}}
 
 
-Scully, Maureen, and Amy Segal. "Passion with an Umbrella: Grassroots Activists in the Workplace." _Social Structure and Organizations Revisited_ 19 (2002): 125-168. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://webuser.bus.umich.edu/organizations/smo/protected/resources/scully.pdf))
+Scully, Maureen, and Amy Segal. "Passion with an Umbrella: Grassroots Activists in the Workplace." _Social Structure and Organizations Revisited_ 19 (2002): 125-168. ([PDF](http://webuser.bus.umich.edu/organizations/smo/protected/resources/scully.pdf))
 
 Tendler, Judith, and Sara Freedheim. "[Trust in a Rent-seeking World: Health and Government Transformed in Northeast Brazil](http://dx.doi.org/10.1016/0305-750X(94)90173-2)." _World Development_ 22, no. 12 (1994): 1771-1791.
 
@@ -374,7 +374,7 @@ Kettl, Donald F., and John J. DiIulio, Jr. "Learning from Public and Private Ref
 {{< tdopen >}}
 
 
-Grindle, Merilee S. "Good Enough Governance: Poverty Reduction and Reform in Developing Countries." _Governance_ 17, no. 4 (October 2004): 525-548. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.gsdrc.org/docs/open/hd32.pdf))
+Grindle, Merilee S. "Good Enough Governance: Poverty Reduction and Reform in Developing Countries." _Governance_ 17, no. 4 (October 2004): 525-548. ([PDF](http://www.gsdrc.org/docs/open/hd32.pdf))
 
 Hood, Christopher. "[Paradoxes of Public-Sector Managerialism, Old Public Management, and Public Service Bargains](http://dx.doi.org/10.1016/S1096-7494(00)00032-5)." _International Public Management Journal_ 3 (2000): 1-22.
 
@@ -422,7 +422,7 @@ Guest: Professor Richard Locke, Sloan School of Management & Political Science D
 
 Locke, Richard, Matthew Amengual, and Akshay Mangla. "[Virtue Out of Necessity? Compliance, Commitment and the Improvement of Labor Conditions in Global Supply Chains](http://pas.sagepub.com/cgi/content/short/37/3/319)." _Politics and Society_ 37, no. 3 (2009): 319-351.
 
-Locke, Richard, Qin, Fei, and Brause, Alberto. "Does Monitoring Improve Labor Standards? Lessons from Nike." _Industrial and Labor Relations Review_ 61, no. 1 (2007): 3-31. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://eprints.lse.ac.uk/59405/1/Qin_etal_Does-monitoring-improve-labor-standards_2007.pdf))
+Locke, Richard, Qin, Fei, and Brause, Alberto. "Does Monitoring Improve Labor Standards? Lessons from Nike." _Industrial and Labor Relations Review_ 61, no. 1 (2007): 3-31. ([PDF](https://eprints.lse.ac.uk/59405/1/Qin_etal_Does-monitoring-improve-labor-standards_2007.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -470,7 +470,7 @@ Mallaby, Sebastian. _The World’s Banker: A Story of Failed States, Financial C
 
 Swidler, Ann. "[Syncretism and Subversion in AIDS Governance: How Locals Cope with Global Demands](https://sociology.berkeley.edu/sites/default/files/faculty/swidler/Swidler%20Syncretism%20and%20Subversion%20in%20Poku%20ed%20AIDS%20and%20Governance.pdf)." _International Affairs_ 82, no. 2 (2006): 269-284.
 
-Cooley, Alexander, and James Ron. "The NGO Scramble: Organizational Insecurity and the Political Economy of Transnational Action." _International Security_ 27, no. 1 (1991): 5-39. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.jstor.org/stable/3092151?seq=1#metadata_info_tab_contents))
+Cooley, Alexander, and James Ron. "The NGO Scramble: Organizational Insecurity and the Political Economy of Transnational Action." _International Security_ 27, no. 1 (1991): 5-39. ([PDF](https://www.jstor.org/stable/3092151?seq=1#metadata_info_tab_contents))
 
 Sanyal, Bishwapriya. "[Antagonistic Cooperation: A Case Study of Nongovernmental Organizations, Government and Donors' Relationships in Income-Generating Projects in Bangladesh](http://dx.doi.org/10.1016/0305-750X(91)90079-W)." _World Development_ 19, no. 10 (1991): 1367-1379.
 
@@ -478,7 +478,7 @@ Sanyal, Bishwapriya. "[Antagonistic Cooperation: A Case Study of Nongovernmental
 
 McCormick, Dorothy, Winnie Mitullah, and Erick Manga. "Extent and Forms of Donor Proliferation and Coordination in Kenya: the Case of Inclusive Industrialization and Governance Reform, 2000-2005." Working paper. Kenya, University of Nairobi, Institute for Development Studies, 2007. (Strongly recommended: pp. 1-48; rest optional.)
 
-Killick, Tony, Carlos N. Castel-Branco, and Richard Gerster. "Perfect Partners? The Performance of Programme Aid Partners in Mozambique." Report to Programme Aid Partners and the Government of Mozambique, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://evalafrica.files.wordpress.com/2009/12/perfect-partners-the-performance-of-programme-aid-partners-in-mozambique.pdf))
+Killick, Tony, Carlos N. Castel-Branco, and Richard Gerster. "Perfect Partners? The Performance of Programme Aid Partners in Mozambique." Report to Programme Aid Partners and the Government of Mozambique, 2004. ([PDF](https://evalafrica.files.wordpress.com/2009/12/perfect-partners-the-performance-of-programme-aid-partners-in-mozambique.pdf))
 
 ### The new donor world: competition (as vs. collaboration)
 
